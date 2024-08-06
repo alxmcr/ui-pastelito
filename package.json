@@ -1,7 +1,8 @@
 {
-  "name": "@alxmcr/ui-pastelito",
+  "name": "ui-pastelito",
   "private": false,
-  "version": "0.1.2",
+  "license": "MIT",
+  "version": "0.1.3",
   "type": "module",
   "scripts": {
     "dev": "vite",
